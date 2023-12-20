@@ -1,0 +1,32 @@
+C:\Users\User\OneDrive\Desktop\Hospital system\bin\Debug\Hospital system.exe.config
+C:\Users\User\OneDrive\Desktop\Hospital system\bin\Debug\Hospital system.exe
+C:\Users\User\OneDrive\Desktop\Hospital system\bin\Debug\Hospital system.pdb
+C:\Users\User\OneDrive\Desktop\Hospital system\bin\Debug\Guna.UI2.dll
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital system.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital_system.Stock.resources
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital_system.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital_system.Requests.resources
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital system.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital system.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital system.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital system.exe
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital system.pdb
+C:\Users\User\OneDrive\Desktop\Hospital system\obj\Debug\Hospital_system.Msg.resources
+F:\College\Projects\Blood Bank\FINAL\Hospital system\bin\Debug\Hospital system.exe.config
+F:\College\Projects\Blood Bank\FINAL\Hospital system\bin\Debug\Hospital system.exe
+F:\College\Projects\Blood Bank\FINAL\Hospital system\bin\Debug\Hospital system.pdb
+F:\College\Projects\Blood Bank\FINAL\Hospital system\bin\Debug\Guna.UI2.dll
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital system.csproj.AssemblyReference.cache
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital_system.Msg.resources
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital_system.Stock.resources
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital_system.Properties.Resources.resources
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital_system.Requests.resources
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital system.csproj.GenerateResource.cache
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital system.csproj.CoreCompileInputs.cache
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital system.csproj.CopyComplete
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital system.exe
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital system.pdb
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital_system.Pending.resources
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital_system.PendingCard.resources
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital_system.Login.resources
+F:\College\Projects\Blood Bank\FINAL\Hospital system\obj\Debug\Hospital_system.Register.resources
