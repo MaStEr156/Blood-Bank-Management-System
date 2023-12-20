@@ -71,7 +71,7 @@ namespace Donation
             phoneLbl2.Text = phone;
 
             con.Open();
-
+            // Get Request Data
             SqlCommand cmd_APos = new SqlCommand("SELECT APos FROM Requests WHERE ReqID ='" + requestId + "'", con);
             SqlCommand cmd_ANeg = new SqlCommand("SELECT ANeg FROM Requests WHERE ReqID ='" + requestId + "'", con);
             SqlCommand cmd_BPos = new SqlCommand("SELECT Bpos FROM Requests WHERE ReqID ='" + requestId + "'", con);
