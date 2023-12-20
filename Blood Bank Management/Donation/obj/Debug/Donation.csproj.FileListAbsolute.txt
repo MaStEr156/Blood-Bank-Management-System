@@ -1,0 +1,54 @@
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.AddDonor.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Donate.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.ViewDonor.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\bin\Debug\Donation.exe.config
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\bin\Debug\Donation.exe
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\bin\Debug\Donation.pdb
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\bin\Debug\Guna.UI2.dll
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.exe
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.pdb
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.splash.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Edit.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.AddPatients.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.ViewPatient.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.EditPatient.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Stock.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Dashboard.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Login.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.msg.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Requests.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Reqs.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Home.resources
+C:\Users\User\OneDrive\Desktop\Blood Bank Management\Donation\obj\Debug\Donation.Register.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\bin\Debug\Donation.exe.config
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\bin\Debug\Donation.exe
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\bin\Debug\Donation.pdb
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\bin\Debug\Guna.UI2.dll
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.csproj.AssemblyReference.cache
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.AddDonor.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.AddPatients.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Dashboard.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Donate.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Edit.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.EditPatient.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Home.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Login.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.msg.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Properties.Resources.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Register.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Reqs.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Requests.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.splash.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.Stock.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.ViewDonor.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.ViewPatient.resources
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.csproj.GenerateResource.cache
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.csproj.CoreCompileInputs.cache
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.csproj.CopyComplete
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.exe
+F:\College\Projects\Blood Bank\FINAL\Blood Bank Management\Donation\obj\Debug\Donation.pdb
