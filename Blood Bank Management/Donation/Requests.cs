@@ -154,7 +154,7 @@ namespace Donation
 
             int requestId = Convert.ToInt32(ReqIDLbl2.Text);
             con.Open();
-
+            // Get each blood type count
             SqlCommand cmd_APos_Count = new SqlCommand("SELECT COUNT(*) AS CountOfRows FROM Stock WHERE BType = 'A+';", con);
             SqlCommand cmd_ANeg_Count = new SqlCommand("SELECT COUNT(*) AS CountOfRows FROM Stock WHERE BType = 'A-';", con);
             SqlCommand cmd_BPos_Count = new SqlCommand("SELECT COUNT(*) AS CountOfRows FROM Stock WHERE BType = 'B+';", con);
@@ -174,7 +174,7 @@ namespace Donation
             int ABNeg_StockCount = Convert.ToInt32(cmd_ABNeg_Count.ExecuteScalar());
 
             con.Close();
-
+            //Check if Stock has enough blood bags for request
             if (APos_StockCount < APosCnt || ANeg_StockCount < ANegCnt || BPos_StockCount < BPosCnt || BNeg_StockCount < BNegCnt ||
                  OPos_StockCount < OPosCnt || ONeg_StockCount < ONegCnt || ABPos_StockCount < ABPosCnt || ABNeg_StockCount < ABNegCnt)
                 new msg("Insufficient Stock").ShowDialog();
