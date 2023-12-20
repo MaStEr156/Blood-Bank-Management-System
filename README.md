@@ -9,6 +9,12 @@
   - MS SQL Server
 
 ## Features
+- Add donor which admin or employees can add donor and edit any time.
+- DonorView page which show donors as list and can edit donor and delete it any time
+- Donate page which show donors as list and choose donor from it to complete process of donation.
+- Stock page which show the overall quantity of each blood type and also has details of each blood group.
+- Request page which show all requests received from hospitals and also contains details of each request.
+- DashBoard page shows the total number of donors and requests, shows the difference in donor ages, and also shows the quantities of blood types that are about to run out.
 
 
 ## My Team
